@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: HUNG PHAM
 
 # Your name to show in the footer
-author: Some Person
+author: PHAM NGUYEN QUOC HUNG
 
 # --- List of links in the navigation bar --- #
 
@@ -39,12 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "hungpham99er@gmail.com"
+  github: hun9pham.github.io
+  zalo: 0969875740
+
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -71,8 +69,6 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
   linkedin: true
   vk: false
 
