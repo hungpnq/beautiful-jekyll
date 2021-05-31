@@ -13,12 +13,12 @@ author: PHAM NGUYEN QUOC HUNG
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
+navbar-links: 
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Project: "https://google.com.vn"
+    - None: "https://google.com.vn"
+  Software: "https://google.com.vn"
 
 # --- Logo --- #
 
@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "hungpham99er@gmail.com"
   github: hun9pham.github.io
-  zalo: 0969875740
+  zalo: "0969875740"
 
 #  medium: yourname
 #  reddit: yourname
