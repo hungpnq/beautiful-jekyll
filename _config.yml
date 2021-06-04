@@ -16,9 +16,9 @@ author: PHAM NGUYEN QUOC HUNG
 navbar-links: 
   About Me: "aboutme"
   Resources:
+    - Resume: "https://google.com.vn"
     - Project: "https://google.com.vn"
-    - None: "https://google.com.vn"
-  Software: "https://google.com.vn"
+    - Contact: "https://google.com.vn"
 
 # --- Logo --- #
 
