@@ -15,10 +15,12 @@ author: PHAM NGUYEN QUOC HUNG
 
 navbar-links: 
   About Me: "aboutme"
-  Resources:
-    - Resume: "https://google.com.vn"
-    - Project: "https://google.com.vn"
-    - Contact: "https://google.com.vn"
+  Resume: "https://google.com.vn"
+  Contact: "https://google.com.vn"
+  Project:
+    - 1: "https://google.com.vn"
+    - 2: "https://google.com.vn"
+    - 3: "https://google.com.vn"
 
 # --- Logo --- #
 
@@ -69,7 +71,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  linkedin: true
+  linkedin: https://www.linkedin.com/in/pham-hung-a12449213/
   vk: false
 
 # How to display the link to your website in the footer
