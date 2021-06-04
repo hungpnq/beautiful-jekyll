@@ -1,0 +1,30 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url('resumebgr.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    color: saddlebrown;
+    text-indent: 35vh;
+}
+
+p{
+    text-indent: 40vh;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+    max-width: 800px;
+    margin-right:1;
+}
